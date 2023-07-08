@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kiteshiki
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning nestjs
-- 📫 How to reach me: idris.feltz@gmail.com
+- 👋 Hi, I’m Idris Salavatov @kiteshiki
+- 👀 I develop Frontend apps
+- 🌱 I’m currently learning ssr frameworks
+- 📫 How to reach me: idris.feltz@gmail.com / t.me/kiteshi
 
 <!---
 Kiteshiki/Kiteshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
